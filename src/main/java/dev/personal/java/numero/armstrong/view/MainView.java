@@ -2,8 +2,6 @@ package dev.personal.java.numero.armstrong.view;
 
 import java.util.Scanner;
 
-import dev.personal.java.numero.armstrong.model.NumberAmrstrong;
-
 public class MainView {
 
     Scanner scanner = new Scanner(System.in);
